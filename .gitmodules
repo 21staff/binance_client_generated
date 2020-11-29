@@ -1,0 +1,3 @@
+[submodule "binance_api_swagger"]
+	path = binance_api_swagger
+	url = https://github.com/21staff/binance-api-swagger.git
